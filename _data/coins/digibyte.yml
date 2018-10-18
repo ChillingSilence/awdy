@@ -3,12 +3,12 @@ symbol: DGB
 url: https://digibyte.io
 consensus: PoW
 incentivized: Y
-consensus_distribution: 3
+consensus_distribution: 6
 consensus_distribution_source: https://chainz.cryptoid.info/dgb/#!extraction
-wealth_distribution: 46.66%
+wealth_distribution: 44.74
 wealth_distribution_source: https://chainz.cryptoid.info/dgb/#!rich
 client_codebases: 1
 client_codebases_source: https://chainz.cryptoid.info/dgb/#!network
-public_nodes: 287
-public_nodes_source: https://chainz.cryptoid.info/dgb/#!network
-notes: Because DigiByte is MultiAlgo, to perform a 51% attack, it would require 93% of the primary attack algorithm and 51% of all other remaining, meaning the Consensus Distribution is skewed
+public_nodes: ?
+public_nodes_source: 
+notes: No known node is running with publicly available stats that has higher than default peers, though DigiExplorer.info has over 800 active connections
